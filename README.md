@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CosmicKittu
 - 👀 I’m interested in AIML, backend devlopment and app devlopment
 - 🌱 I’m currently learning backend devlopment
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on (Not Right Now)
 
 <!---
 CosmicKittu/CosmicKittu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

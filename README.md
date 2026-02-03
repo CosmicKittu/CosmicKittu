@@ -16,4 +16,29 @@
 ---
 
 
+## 👨‍💻 About Me
+
+🔭 Full Stack Developer specializing in **React**, **Node.js**, and **TypeScript**<br/>
+🌱 Currently learning **System Design** and **Cloud Architecture**<br/>
+💡 Passionate about building scalable and efficient web applications<br/>
+📫 Reach me at **priyanshuxmaurya@gmail.com**
+
+---
+
+## 🚀 Top Projects
+
+### 🌟 Featured Work
+
+| Project | Description | Tech Stack | Links |
+|:---:|:---:|:---:|:---:|
+| **RandomChat (On it)** | Connect with people Randomly world wide | React, TypeScript, Node.js, PostgreSQL, prisma, Oauth, socket.io | [REPO](https://github.com/CosmicKittu/RandomChat) · [Code](https://github.com/CosmicKittu/RandomChat) |
+| **MovieAPI** | A personal project that mimics real-life standards and allows users to book movie tickets. | Typescript, Prisma, Nodejs, PostgreSQL, Zod, redis, PM2 | [Code](https://github.com/CosmicKittu/MovieAPI) |
+| **Project Name 3** | Brief description of the application and its impact | Express.js, MongoDB, React | [Demo](#) · [Code](#) |
+| **Project Name 4** | Brief description of functionality and tech innovations | TypeScript, shadcn/ui, Zod | [Demo](#) · [Code](#) |
+
+---
+
+
+
+
 </div>

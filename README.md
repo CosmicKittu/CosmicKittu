@@ -35,19 +35,6 @@
 
 ---
 
-## 💻 Coding Platforms
-
-<p>
-  <a href="https://leetcode.com/u/pBZbsDFIPs"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://codeforces.com/profile/priyanshuxluffy"><img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="CodeForces"/></a>
-  <a href="https://atcoder.jp/users/priyanshuxmaurya"><img src="https://img.shields.io/badge/AtCoder-000000?style=flat-square&logo=atcoder&logoColor=white" alt="AtCoder"/></a>
-</p>
-
-### LeetCode Stats
-<img src="https://leetcard.jacoblin.cool/pBZbsDFIPs?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
-
----
-
 ## 🛠️ Skills & Technologies
 
 ### Languages
@@ -93,6 +80,21 @@
 </p>
 
 ---
+
+## 💻 Coding Platforms
+
+<p>
+  <a href="https://leetcode.com/u/pBZbsDFIPs"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/priyanshuxluffy"><img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="CodeForces"/></a>
+  <a href="https://atcoder.jp/users/priyanshuxmaurya"><img src="https://img.shields.io/badge/AtCoder-000000?style=flat-square&logo=atcoder&logoColor=white" alt="AtCoder"/></a>
+</p>
+
+### LeetCode Stats
+<img src="https://leetcard.jacoblin.cool/pBZbsDFIPs?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+
+---
+
+
 
 ## 📊 GitHub Stats
 

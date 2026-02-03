@@ -29,7 +29,7 @@
 | Project | Description | Tech Stack | Links |
 |:---:|:---:|:---:|:---:|
 | **RandomChat (On it)** | Connect with people Randomly world wide | React, TypeScript, Node.js, PostgreSQL, prisma, Oauth, socket.io | [REPO](https://github.com/CosmicKittu/RandomChat) · [Code](https://github.com/CosmicKittu/RandomChat) |
-| **Project Name 2** | Brief description highlighting the problem it solves | Next.js, Prisma, Tailwind CSS | [Demo](#) · [Code](#) |
+| **MovieAPI** | A personal project that mimics real-life standards and allows users to book movie tickets. | Typescript, Prisma, Nodejs, PostgreSQL, Zod, redis, PM2 | [Code](https://github.com/CosmicKittu/MovieAPI) |
 | **Project Name 3** | Brief description of the application and its impact | Express.js, MongoDB, React | [Demo](#) · [Code](#) |
 | **Project Name 4** | Brief description of functionality and tech innovations | TypeScript, shadcn/ui, Zod | [Demo](#) · [Code](#) |
 
